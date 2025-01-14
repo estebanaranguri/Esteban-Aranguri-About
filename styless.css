@@ -51,6 +51,7 @@ ul {
     right: 2.4%;
     position: fixed;
     display: none;
+    font-weight: lighter;
     /*
     transform:  translateX(-1900px);
     transition: transform .3s ease-in-out;
@@ -294,9 +295,9 @@ ul {
 }
 
 .showcase .content-show a.logo {
-    font-family: "Tangerine", serif;
-    font-weight: 400;
-    font-style: normal;
+    font-family: "WindSong", serif;
+  font-weight: 400;
+  font-style: normal;
     color: gray;
     font-size: 4rem;
     
